@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div style={{ border: "solid 1px black", maxWidth: "100vw" }}>
-        <h1 class="title red">Your name here</h1>
+        <h1 className="title red">Your name here</h1>
 
         <br />
 
